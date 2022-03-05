@@ -1,4 +1,9 @@
-# opal_app
+# Flutter (Opal App)
+
+Instagram: https://www.instagram.com/joinflutter/
+
+![Cover (2)](https://user-images.githubusercontent.com/87581799/156897459-7dd28d2e-b2ef-4fb9-9cf5-fea24d140d83.png)
+
 
 A new Flutter project.
 
